@@ -21,6 +21,10 @@
 [AltspaceVR](https://altvr.com/)
 - a social VR platform
 
+[Polygon world VR](http://www.polygonworldvr.com/)
+- virtual city VR
+- Mobile computer VR cross end Online
+
 [Bigscreen](https://bigscreenvr.com/)
 - watch movies and hangout with friends in VR
 
@@ -122,10 +126,6 @@
 
 [ambush](https://ambushsilverfctry.io/)
 - 高级潮牌做的虚拟空间
-
-
-[Earth 2®](https://earth2.io/)
-- Earth 2® is a futuristic concept for a second earth; a metaverse, between virtual and physical reality in which real-world geolocations on a sectioned map correspond to user generated digital virtual environments. These environments can be owned, bought, sold, and in the near future deeply customized.
 
 
 ## 👓 AR/VR Hardware 硬件
@@ -494,5 +494,5 @@
 - 
 
 ## 🌏 Marketing 营销
-- Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.
-- [元宇宙营销](https://mp.weixin.qq.com/s/FKqtRZ9aOY0MpK2hjpoxHg)
+- [Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.](https://mp.weixin.qq.com/s/FKqtRZ9aOY0MpK2hjpoxHg)
+- 
